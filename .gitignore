@@ -1,0 +1,32 @@
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+
+# iOS
+ios/Pods/
+macos/Pods/
+
+# Android
+android/.gradle/
+*.iml
+
+# Windows/Linux/MacOS (generated files)
+windows/flutter/ephemeral/
+linux/flutter/
+macos/Flutter/ephemeral/
+
+# VSCode & IDE
+.vscode/
+*.code-workspace
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+*.lock

@@ -1,0 +1,50 @@
+name: qr_guvenlik_projesi
+description: "A new Flutter project."
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  path_provider: ^2.0.15  
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.0.15
+  google_fonts: ^4.0.3
+  url_launcher: ^6.1.7
+  http: ^0.13.6
+  google_maps_flutter: ^2.2.0
+
+
+
+  barcode_widget: ^2.0.1
+  image_picker: ^0.8.7+3
+  google_mlkit_barcode_scanning: ^0.14.1
+  uuid: ^3.0.6
+
+
+
+  intl: ^0.18.0
+
+
+ 
+  
+  
+
+  
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+
+
+flutter:
+  uses-material-design: true

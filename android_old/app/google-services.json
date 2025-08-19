@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477391721683",
+    "project_id": "securityproject-f70da",
+    "storage_bucket": "securityproject-f70da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477391721683:android:79f941c60fb89742adb026",
+        "android_client_info": {
+          "package_name": "com.example.securityproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0Qmfa40lj5q6qHlmhC_LYwC3Q65b3GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
