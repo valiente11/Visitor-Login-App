@@ -1,16 +1,1 @@
-# qr_guvenlik_projesi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a security application developed for factories and other private institutions. The goal is to eliminate outdated visitor registration methods and the need for security personnel to provide verbal information about the factory at the entrance of the establishment, thereby digitalizing the entire process and ensuring fast and secure visitor management. Furthermore, the project prioritizes security within itself. The application, which operates with a unique QR code each time, is an ideal method for such large companies. Furthermore, the facial recognition system, which allows users to quickly log in to the system, also saves time and maintains high-level security measures.
