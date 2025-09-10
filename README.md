@@ -12,7 +12,7 @@ Backend Server (Node.js / Express): Handles user requests, database operations, 
 Database (MySQL): Stores user records, login sessions, and encoding file references.
 Face Recognition (Python/Flask): Provides face registration and authentication services.
 
-<img width="278" height="346" alt="image" src="https://github.com/user-attachments/assets/46b160bc-af06-4028-98e5-d6287f4fab57" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/c426a21a-5f07-477e-b360-650670ea373a" />
 
 
 🚀 Features
@@ -24,17 +24,21 @@ Notification system for admins
 Password-based login (hashed with SHA-256)
 Face recognition-based login
 🗄️ Database Integration
-<img width="278" height="346" alt="image" src="https://github.com/user-attachments/assets/46b160bc-af06-4028-98e5-d6287f4fab57" />
-
 MySQL for storing user details, encodings, and visit history
+
+
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/46b160bc-af06-4028-98e5-d6287f4fab57" />
+
 🔒 Security
 Data encryption and CORS enabled API
 
 Flowchart
-<img width="560" height="388" alt="image" src="https://github.com/user-attachments/assets/6821c968-cd14-4447-aa56-af2ac6492115" />
 
-MySQL Tables
-<img width="367" height="540" alt="image" src="https://github.com/user-attachments/assets/f17089c7-77bd-4971-8102-ae1c0231e282" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/6821c968-cd14-4447-aa56-af2ac6492115" />
+
+
+
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/f17089c7-77bd-4971-8102-ae1c0231e282" />
 
 
 
