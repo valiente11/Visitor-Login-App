@@ -12,7 +12,7 @@ Backend Server (Node.js / Express): Handles user requests, database operations, 
 Database (MySQL): Stores user records, login sessions, and encoding file references.
 Face Recognition (Python/Flask): Provides face registration and authentication services.
 
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/c426a21a-5f07-477e-b360-650670ea373a" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/c426a21a-5f07-477e-b360-650670ea373a" />
 
 
 🚀 Features
@@ -27,7 +27,7 @@ Face recognition-based login
 MySQL for storing user details, encodings, and visit history
 
 
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/46b160bc-af06-4028-98e5-d6287f4fab57" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/46b160bc-af06-4028-98e5-d6287f4fab57" />
 
 🔒 Security
 Data encryption and CORS enabled API
