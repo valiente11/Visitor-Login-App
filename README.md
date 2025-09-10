@@ -6,13 +6,15 @@ The project is a Visitor Login Application that integrates Flutter (mobile app),
 The aim of this project is to design and implement a secure visitor login system that can be used at security checkpoints.
 The system ensures that visitors can register, log in, and be authenticated through QR codes and face recognition technology.
 
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/c426a21a-5f07-477e-b360-650670ea373a" />
+
+
 Main components:
 Mobile Application (Flutter): User interface for visitors and security staff.
 Backend Server (Node.js / Express): Handles user requests, database operations, and API endpoints.
 Database (MySQL): Stores user records, login sessions, and encoding file references.
 Face Recognition (Python/Flask): Provides face registration and authentication services.
 
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/c426a21a-5f07-477e-b360-650670ea373a" />
 
 
 🚀 Features
@@ -25,12 +27,11 @@ Password-based login (hashed with SHA-256)
 Face recognition-based login
 🗄️ Database Integration
 MySQL for storing user details, encodings, and visit history
-
-
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/46b160bc-af06-4028-98e5-d6287f4fab57" />
-
 🔒 Security
 Data encryption and CORS enabled API
+
+
+
 
 Flowchart
 
