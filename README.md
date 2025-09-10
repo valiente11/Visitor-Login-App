@@ -22,18 +22,19 @@ Face Recognition (Python/Flask): Provides face registration and authentication s
 Register and log in visitors
 QR code scanning
 Notification system for admins
+
 🔑 Authentication
 Password-based login (hashed with SHA-256)
 Face recognition-based login
+
 🗄️ Database Integration
 MySQL for storing user details, encodings, and visit history
+
 🔒 Security
 Data encryption and CORS enabled API
 
 
 
-
-Flowchart
 
 
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/c426a21a-5f07-477e-b360-650670ea373a" />
