@@ -16,6 +16,42 @@ Database (MySQL): Stores user records, login sessions, and encoding file referen
 Face Recognition (Python/Flask): Provides face registration and authentication services.
 
 
+Background Information
+I used in this project multi-layered system in mobile development, server programming,
+database management, and facial recognition. So I used, multiple programming languages,
+frameworks, and development tools were together.
+
+Required & Used software
+ Flutter (Dart language)
+I used the Flutter framework for mobile application side on my project. Flutter allows develop
+apps for both Android and iOS, and I can also run my app in Xcode on a MacBook. Functions
+such as face id , QR code scanning, form filling, and video playback,dark mode and light
+mode,text size settings contrast settings were coding with using Flutter.
+
+ Node.js & Express (JavaScript)
+Node.js was used on the server side data transmission the mobile application from the
+MySQL. Node.js is listening to mobile side and give the information to MySQL also in
+MySQL information transfer the mobile side.
+
+ MySQL (Database Management System)
+All user information, survey results, the admin entry and exit times, application’s ratings are
+stored in the MySQL database with tables.
+
+ C++ (For Face Recognition Module)
+In my project I used for face id I used c++ open cv library. This library is integrated in login
+page analyzing the user's facial image.
+
+ Python (For Optional Preprocessing or Integrations)
+I used python in server side for face id. In the mobile development I didn’t use python.
+Python is take the face image. After that open cv is encoding the numerical value for face
+image. In the register process face and login face is compare if this face images is similar the
+login process is succesfull.
+
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/8aab661d-b9f9-4e0a-b83c-07d551b84dfb" />
+
+
+
+
 
 🚀 Features
 📱 Flutter Mobile App
